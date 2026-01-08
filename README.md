@@ -19,7 +19,7 @@ This project provides a comprehensive analysis of retail sales data to identify 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](./screenshots/dashboard_preview.png)
 *(Note: Replace this with your actual screenshot once you build the dashboard!)*
 
 ---
