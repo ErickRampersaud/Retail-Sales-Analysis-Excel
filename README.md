@@ -1,7 +1,7 @@
 # 📈 Retail Sales Performance Analysis
 
 ## 📌 Project Overview
-This project provides a comprehensive analysis of retail sales data to identify key performance drivers, customer demographics, and seasonal trends. The goal is to transform raw transactional data into actionable business insights using **Excel**.
+This project provides a comprehensive analysis of retail sales data to identify key performance drivers, customer demographics, and seasonal trends. The goal is to transform raw transactional data into actionable business insights using **Excel**. (Dataset found using Kaggle, https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
 ### 🎯 Objective
 - Analyze sales performance across different product categories.
