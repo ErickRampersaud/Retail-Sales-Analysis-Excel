@@ -25,14 +25,20 @@ This project provides a comprehensive analysis of retail sales data to identify 
 ---
 
 ## 🔍 Key Data Insights
-Based on the analysis of 1,000+ transactions:
+Key Business Insights
+Revenue Overview: The dataset contains 1,000 transactions totaling $456,000 in revenue, with an average order value of $456.00.
 
-1. **Top Category**: **Electronics** led all categories with **$156,905** in total revenue (approx. 34% of total sales).
-2. **Seasonal Trends**: Revenue peaked significantly in **May ($53,150)** and **October ($46,580)**, suggesting successful spring and autumn promotional periods.
-3. **Customer Demographics**: 
-    - **Female customers** are the primary drivers of revenue, contributing **$232,840**.
-    - The **45-54 age group** is the most profitable segment, spending over **$100,000**.
-4. **Efficiency**: The Average Order Value (AOV) across all transactions is **$456**.
+Top Performing Category: Electronics is the leading product category, contributing $156,905 (approx. 34% of total sales).
+
+Seasonality: Sales showed a significant peak in May ($53,150) and a secondary peak in October ($46,580), suggesting successful spring and fall promotional periods.
+
+Customer Demographics:
+
+Gender: Female customers are the primary revenue drivers, contributing $232,840 compared to $223,160 from male customers.
+
+Age: The 46-55 age group is the most profitable segment, spending over $100,000 in total.
+
+Operational Opportunity: September showed the lowest sales performance ($23,620), identifying a clear opportunity for targeted marketing campaigns during late Q3.
 
 ---
 
@@ -55,3 +61,5 @@ Based on the analysis of 1,000+ transactions:
 ## 🚀 How to Use
 1. Download the `Retail_Sales_Analysis_Dashboard.xlsx` from the `dashboard` folder.
 2. Open in Excel and use the **Slicers** (Region, Category, Gender) to filter the data dynamically.
+
+3. 
